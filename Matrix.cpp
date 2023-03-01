@@ -1,4 +1,4 @@
-//Multiply of two matrix LAB 4 Exercise 1
+//the adding, subtracting, and multiplying of 2 matrices.
 #include <iostream>
 
 using namespace std;
